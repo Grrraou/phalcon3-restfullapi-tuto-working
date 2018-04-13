@@ -10,7 +10,7 @@ $di->set(
                         [
                                 'host'          => 'localhost',
                                 'username'      => 'root',
-                                'password'      => 'passwordTest',
+                                'password'      => 'password',
                                 'dbname'        => 'Toys',
                         ]
                 );
